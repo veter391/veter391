@@ -26,7 +26,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=veter391&show_icons=true&locale=en&layout=compact" alt="veter391" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veter391&" alt="veter391" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veter391&" alt="veter391" /></p>
 
 
 
