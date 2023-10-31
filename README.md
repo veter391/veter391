@@ -4,7 +4,7 @@
 <hr>
 
 Creating different projects, plugins and development💻 is what makes me truly happy I am a completely self-taught and I consider it one of the best ways to learn🎓. 
-My goal💪 is to learn as much as possible and become someone who can help society🌍 develop in the IT field.
+My goal is to learn as much as possible and become someone who can help society🌍 develop in the IT field.
 All my current knowledge and experience were built ⛏ on mistakes and failures, but it's worth it.
 
 * 🌱 I’m currently learning **Node.js, Php and React**
