@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nazar</h1>
-<h3 align="center">I a Web Developer I really enjoy programming and creating things on JS. Welcome to my profile)</h3>
+<h1 align="center">Hi there 👋, I'm Nazar Welcome to my profile)</h1>
+<h3 align="center">I a Full-stck Web Developer I really enjoy programming and creating things on JS.</h3>
 
 <hr>
 
+Creating different projects, plugins and development💻 is what makes me truly happy I am a completely self-taught and I consider it one of the best ways to learn🎓. 
+My goal💪 is to learn as much as possible and become someone who can help society🌍 develop in the IT field.
+All my current knowledge and experience were built ⛏ on mistakes and failures, but it's worth it.
 
 * 🌱 I’m currently learning **Node.js, Php and React**
 
 * 💬 Ask me about **html, css, javascript**
 
 * ⚡ Fun fact **If my code works the first time, I've rewriting it.**
+
+* ❤️ First love **GOOGLE** 
 
 <br>
 <br>
