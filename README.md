@@ -11,7 +11,7 @@ All my current knowledge and experience were built ⛏ on mistakes and failures,
 
 * 💬 Ask me about **html, css, javascript**
 
-* ⚡ Fun fact **If my code works the first time, I've rewriting it.**
+* ⚡ Fun fact **My favorite debugging tool is a rubber duck. Explaining the code issue to a rubber duck often helps me find the solution.**
 
 * ❤️ First love **GOOGLE** 
 
