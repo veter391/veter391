@@ -7,11 +7,11 @@ Creating different projects, plugins and development💻 is what makes me truly 
 My goal is to learn as much as possible and become someone who can help society🌍 develop in the IT field.
 All my current knowledge and experience were built ⛏ on mistakes and failures, but it's worth it.
 
-* 🌱 I’m currently learning **Node.js, Php and React**
+* 🌱 I’m currently working on **StartUp Minded**
 
-* 💬 Ask me about **html, css, javascript**
+* 💬 Feel free to ask me about **JS, React**, or any other aspect of web development that interests you.
 
-* ⚡ Fun fact **My favorite debugging tool is a rubber duck. Explaining the code issue to a rubber duck often helps me find the solution.**
+* ⚡ Fun fact **My best debugging tool is taking a short walk. Apparently, bugs are scared of fresh air and just fix themselves!**
 
 * ❤️ First love **GOOGLE** 
 
