@@ -24,7 +24,7 @@ All my current knowledge and experience were built ⛏ on mistakes and failures,
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veter391&theme=onedark&rank=C,B&no-bg=true&column=3&margin-w=15" alt="veter391" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veter391&theme=onedark&rank=A,C,B&no-bg=true&column=3&margin-w=15" alt="veter391" /></a> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=veter391&theme=onedark&rank=C,B&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
 
