@@ -11,7 +11,7 @@ All my current knowledge and experience were built ⛏ on mistakes and failures,
 
 * 💬 Feel free to ask me about **AI, multi-agent systems, or full-stack** development
 
-* 🔒 Most of my current work lives in **private** repos, what's public, is fully public)
+* 🔒 Most of my current work lives in **private** repos; what's public, is fully public
 
 * ⚡ Fun fact **My best debugging tool is taking a short walk. Apparently, bugs are scared of fresh air and just fix themselves!**
 
