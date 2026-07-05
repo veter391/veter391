@@ -7,9 +7,11 @@ Creating different projects, plugins and development💻 is what makes me truly 
 My goal is to learn as much as possible and become someone who can help society🌍 develop in the IT field.
 All my current knowledge and experience were built ⛏ on mistakes and failures, but it's worth it.
 
-* 🌱 I’m currently working on **StartupMinded**
+* 🌱 I'm currently building AI systems at **StartupMinded**
 
-* 💬 Feel free to ask me about **JS, React**, or any other aspect of web development that interests you.
+* 💬 Feel free to ask me about **AI, multi-agent systems, or full-stack** development
+
+* 🔒 Most of my current work lives in **private** repos, what's public, is fully public)
 
 * ⚡ Fun fact **My best debugging tool is taking a short walk. Apparently, bugs are scared of fresh air and just fix themselves!**
 
