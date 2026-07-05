@@ -7,7 +7,7 @@ Creating different projects, plugins and development💻 is what makes me truly 
 My goal is to learn as much as possible and become someone who can help society🌍 develop in the IT field.
 All my current knowledge and experience were built ⛏ on mistakes and failures, but it's worth it.
 
-* 🌱 I’m currently working on **StartUp Minded**
+* 🌱 I’m currently working on **StartupMinded**
 
 * 💬 Feel free to ask me about **JS, React**, or any other aspect of web development that interests you.
 
